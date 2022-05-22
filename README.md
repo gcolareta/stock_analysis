@@ -13,12 +13,14 @@ One of the main changes was to create a tickerIndex to have Excel look through a
 
 Another element added to the code was an array to hold the outputs of the calculated values per ticker. By making an array I am indicating that each calculation (tickersDailyVolume, tickersStartingPrice and tickersEndingPrice) hold store 12 values. This makes the code more accurate.
   
-picture
+<img width="584" alt="Loop output array" src="https://user-images.githubusercontent.com/104762216/169719061-6a427ce6-4e13-462c-8c42-f042553dbc49.png">
   
 As a result of these changes, the macro ran faster, as seen on the pictures below.
   
 ##### *Before the code was refactored*
-  
+
+<img width="1130" alt="Before Refactor" src="https://user-images.githubusercontent.com/104762216/169719071-92e9c563-928f-4866-a25c-7c24d9ad5226.png">
+
   
 ##### *After the code was refactored*
 
