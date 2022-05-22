@@ -25,3 +25,10 @@ As a result of these changes, the macro ran faster, as seen on the pictures belo
 ##### *After the code was refactored*
 
 
+<img width="812" alt="All Stocks 2017" src="https://user-images.githubusercontent.com/104762216/169719128-c4e7892f-3547-46e5-80aa-5da20efce06c.png">
+
+
+<img width="814" alt="All Stocks 2018" src="https://user-images.githubusercontent.com/104762216/169719139-44c09ae7-f3b1-4e18-af1c-d79b13c9011b.png">
+
+
+
