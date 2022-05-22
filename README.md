@@ -3,7 +3,7 @@ Analysis of data from various alternative energy stocks.
 
 ## **Overview of Project**
 
-In this Module, I analized data from various alternative energy stocks to help Steve make informed recommendations to his parents on the stocks they should invest in. Through a series of steps, I ran a Macro to return the total daily volume and the percentage of return for each stock. The purpose of this project was to refactor the code to loop through all the data in order to collect the same information in less time, and to be able to apply the same code to a larger dataset.
+In this Module, I analyzed data from various alternative energy stocks to help Steve make informed recommendations to his parents on the stocks they should invest in. Through a series of steps, I ran a Macro to return the total daily volume and the percentage of return for each stock. The purpose of this project was to refactor the code to loop through all the data in order to collect the same information in less time, and to be able to apply the same code to a larger dataset.
 
 ## **Results**
 
@@ -30,5 +30,11 @@ As a result of these changes, the macro ran faster, as seen on the pictures belo
 
 <img width="814" alt="All Stocks 2018" src="https://user-images.githubusercontent.com/104762216/169719139-44c09ae7-f3b1-4e18-af1c-d79b13c9011b.png">
 
+
+## **Summary**
+
+Refactoring the code has advantages and disadvantages. In general, one main advantage of refactoring code is that it leads to better quality code. It makes the code clean and organized, optimizing it over the long term and making it clearer for other programmers. However, depending on the length of the code or application, refactoring could be riskyas it may lead to errors.
+
+In the current example, the Green Stocks Analysis, refactoring the code added a level of complexity to the structure of the code but, at the same time, it made it more accurate and efficient (as it ran faster) and adaptable to larger datasets.
 
 
