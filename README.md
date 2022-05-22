@@ -9,7 +9,7 @@ In this Module, I analized data from various alternative energy stocks to help S
 
 One of the main changes was to create a tickerIndex to have Excel look through all the tickers' name in the dataset and calculate such ticker's daily volume, and percentage of return. The later calculation was made by having a code to identify the stock's starting and ending price. By having a tickerIndex I can more precisely tell Excel when to look for the next ticker's name and calculate the values needed. Thus the loop becomes more efficient.
 
-picture
+<img width="696" alt="Loop for 3 values" src="https://user-images.githubusercontent.com/104762216/169718902-ec6bbe7e-8cd0-4132-872c-22f5a601ab1b.png">
 
 Another element added to the code was an array to hold the outputs of the calculated values per ticker. By making an array I am indicating that each calculation (tickersDailyVolume, tickersStartingPrice and tickersEndingPrice) hold store 12 values. This makes the code more accurate.
   
