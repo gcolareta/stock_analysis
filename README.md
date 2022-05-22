@@ -11,7 +11,7 @@ One of the main changes was to create a tickerIndex to have Excel look through a
 
 <img width="696" alt="Loop for 3 values" src="https://user-images.githubusercontent.com/104762216/169718902-ec6bbe7e-8cd0-4132-872c-22f5a601ab1b.png">
 
-Another element added to the code was an array to hold the outputs of the calculated values per ticker. By making an array I am indicating that each calculation (tickersDailyVolume, tickersStartingPrice and tickersEndingPrice) hold store 12 values. This makes the code more accurate.
+Another element added to the code was an array to hold the outputs of the calculated values per ticker. By making an array I am indicating that each calculation (tickersDailyVolume, tickersStartingPrice and tickersEndingPrice) stores 12 values. This makes the code more accurate.
   
 <img width="584" alt="Loop output array" src="https://user-images.githubusercontent.com/104762216/169719061-6a427ce6-4e13-462c-8c42-f042553dbc49.png">
   
