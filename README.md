@@ -15,6 +15,8 @@ Another element added to the code was an array to hold the outputs of the calcul
   
 <img width="584" alt="Loop output array" src="https://user-images.githubusercontent.com/104762216/169719061-6a427ce6-4e13-462c-8c42-f042553dbc49.png">
   
+The Return cell's color formatting was also added in this subroutine. This way, Steve can easily detect the stocks that performed better with the click of a button.
+
 As a result of these changes, the macro ran faster, as seen on the pictures below.
   
 ##### *Before the code was refactored*
